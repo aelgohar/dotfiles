@@ -1,5 +1,5 @@
 # open a new terminal 
-lctrl - return : /Applications/iTerm.app 
+lctrl - return : open -a /Applications/iTerm.app 
 
 # focus windows
 lctrl - h : yabai -m window --focus west
